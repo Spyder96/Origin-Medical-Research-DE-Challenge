@@ -1,0 +1,504 @@
+{
+    "dataResources": [
+        {
+            "patient_id": "4e0a6",
+            "gestaional_age": 302,
+            "demographic_age": 33,
+            "BMI": "4e0a6",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "ffe11",
+            "gestaional_age": 308,
+            "demographic_age": 35,
+            "BMI": "ffe11",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "e22e1",
+            "gestaional_age": 199,
+            "demographic_age": 34,
+            "BMI": "e22e1",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "3c108",
+            "gestaional_age": 296,
+            "demographic_age": 33,
+            "BMI": "3c108",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "4dace",
+            "gestaional_age": 299,
+            "demographic_age": 29,
+            "BMI": "4dace",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "2911d",
+            "gestaional_age": 221,
+            "demographic_age": 40,
+            "BMI": "2911d",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "5b6e8",
+            "gestaional_age": 248,
+            "demographic_age": 31,
+            "BMI": "5b6e8",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "2ba24",
+            "gestaional_age": 247,
+            "demographic_age": 27,
+            "BMI": "2ba24",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "51b6c",
+            "gestaional_age": 275,
+            "demographic_age": 37,
+            "BMI": "51b6c",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "6b580",
+            "gestaional_age": 155,
+            "demographic_age": 32,
+            "BMI": "6b580",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "5fd39",
+            "gestaional_age": 267,
+            "demographic_age": 27,
+            "BMI": "5fd39",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "fde20",
+            "gestaional_age": 204,
+            "demographic_age": 34,
+            "BMI": "fde20",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "f2bd9",
+            "gestaional_age": 224,
+            "demographic_age": 31,
+            "BMI": "f2bd9",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "2e786",
+            "gestaional_age": 291,
+            "demographic_age": 31,
+            "BMI": "2e786",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "e52ba",
+            "gestaional_age": 311,
+            "demographic_age": 39,
+            "BMI": "e52ba",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "93319",
+            "gestaional_age": 231,
+            "demographic_age": 23,
+            "BMI": "93319",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "43729",
+            "gestaional_age": 238,
+            "demographic_age": 38,
+            "BMI": "43729",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "04007",
+            "gestaional_age": 243,
+            "demographic_age": 39,
+            "BMI": "04007",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "5dee4",
+            "gestaional_age": 252,
+            "demographic_age": 28,
+            "BMI": "5dee4",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "c7461",
+            "gestaional_age": 285,
+            "demographic_age": 22,
+            "BMI": "c7461",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "df38b",
+            "gestaional_age": 200,
+            "demographic_age": 24,
+            "BMI": "df38b",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "78168",
+            "gestaional_age": 289,
+            "demographic_age": 24,
+            "BMI": "78168",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "aac21",
+            "gestaional_age": 157,
+            "demographic_age": 25,
+            "BMI": "aac21",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "e5a94",
+            "gestaional_age": 284,
+            "demographic_age": 30,
+            "BMI": "e5a94",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "1d65b",
+            "gestaional_age": 166,
+            "demographic_age": 36,
+            "BMI": "1d65b",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "167fe",
+            "gestaional_age": 264,
+            "demographic_age": 26,
+            "BMI": "167fe",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "d4d77",
+            "gestaional_age": 167,
+            "demographic_age": 26,
+            "BMI": "d4d77",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "3e668",
+            "gestaional_age": 307,
+            "demographic_age": 22,
+            "BMI": "3e668",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "b48fb",
+            "gestaional_age": 253,
+            "demographic_age": 30,
+            "BMI": "b48fb",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "a9724",
+            "gestaional_age": 273,
+            "demographic_age": 24,
+            "BMI": "a9724",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "54c9b",
+            "gestaional_age": 237,
+            "demographic_age": 36,
+            "BMI": "54c9b",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "f27a1",
+            "gestaional_age": 319,
+            "demographic_age": 39,
+            "BMI": "f27a1",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "2e200",
+            "gestaional_age": 321,
+            "demographic_age": 29,
+            "BMI": "2e200",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "104d7",
+            "gestaional_age": 178,
+            "demographic_age": 28,
+            "BMI": "104d7",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "e9fed",
+            "gestaional_age": 161,
+            "demographic_age": 38,
+            "BMI": "e9fed",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "10390",
+            "gestaional_age": 262,
+            "demographic_age": 29,
+            "BMI": "10390",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "374c6",
+            "gestaional_age": 170,
+            "demographic_age": 30,
+            "BMI": "374c6",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "a8f6e",
+            "gestaional_age": 213,
+            "demographic_age": 23,
+            "BMI": "a8f6e",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "6c314",
+            "gestaional_age": 208,
+            "demographic_age": 37,
+            "BMI": "6c314",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "22c84",
+            "gestaional_age": 183,
+            "demographic_age": 23,
+            "BMI": "22c84",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "a0daf",
+            "gestaional_age": 219,
+            "demographic_age": 37,
+            "BMI": "a0daf",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "94bb2",
+            "gestaional_age": 295,
+            "demographic_age": 25,
+            "BMI": "94bb2",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "1992c",
+            "gestaional_age": 266,
+            "demographic_age": 32,
+            "BMI": "1992c",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "ddd76",
+            "gestaional_age": 191,
+            "demographic_age": 26,
+            "BMI": "ddd76",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "281dc",
+            "gestaional_age": 177,
+            "demographic_age": 28,
+            "BMI": "281dc",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "ff2ce",
+            "gestaional_age": 173,
+            "demographic_age": 27,
+            "BMI": "ff2ce",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "29861",
+            "gestaional_age": 210,
+            "demographic_age": 35,
+            "BMI": "29861",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "4ce7c",
+            "gestaional_age": 189,
+            "demographic_age": 38,
+            "BMI": "4ce7c",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "77259",
+            "gestaional_age": 228,
+            "demographic_age": 35,
+            "BMI": "77259",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "fetal abnormalities detected in this scan"
+            ]
+        },
+        {
+            "patient_id": "d7701",
+            "gestaional_age": 188,
+            "demographic_age": 22,
+            "BMI": "d7701",
+            "findings": [
+                "There is no structural defects and normal flow patterns",
+                "no fetal abnormalities detected in this scan"
+            ]
+        }
+    ]
+}

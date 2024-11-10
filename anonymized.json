@@ -8,6 +8,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I0",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I1"
             ]
         },
         {
@@ -18,6 +22,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I10",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I100"
             ]
         },
         {
@@ -28,6 +36,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I11",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I12"
             ]
         },
         {
@@ -38,6 +50,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I13",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I14"
             ]
         },
         {
@@ -48,6 +64,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I15",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I16"
             ]
         },
         {
@@ -58,6 +78,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I17",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I18"
             ]
         },
         {
@@ -68,6 +92,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I19",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I2"
             ]
         },
         {
@@ -78,6 +106,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I20",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I21"
             ]
         },
         {
@@ -88,6 +120,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I22",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I23"
             ]
         },
         {
@@ -98,6 +134,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I24",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I25"
             ]
         },
         {
@@ -108,6 +148,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I26",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I27"
             ]
         },
         {
@@ -118,6 +162,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I28",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I29"
             ]
         },
         {
@@ -128,6 +176,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I3",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I30"
             ]
         },
         {
@@ -138,6 +190,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I31",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I32"
             ]
         },
         {
@@ -148,6 +204,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I33",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I34"
             ]
         },
         {
@@ -158,6 +218,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I35",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I36"
             ]
         },
         {
@@ -168,6 +232,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I37",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I38"
             ]
         },
         {
@@ -178,6 +246,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I39",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I4"
             ]
         },
         {
@@ -188,6 +260,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I40",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I41"
             ]
         },
         {
@@ -198,6 +274,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I42",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I43"
             ]
         },
         {
@@ -208,6 +288,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I44",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I45"
             ]
         },
         {
@@ -218,6 +302,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I46",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I47"
             ]
         },
         {
@@ -228,6 +316,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I48",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I49"
             ]
         },
         {
@@ -238,6 +330,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I5",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I50"
             ]
         },
         {
@@ -248,6 +344,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I51",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I52"
             ]
         },
         {
@@ -258,6 +358,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I53",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I54"
             ]
         },
         {
@@ -268,6 +372,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I55",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I56"
             ]
         },
         {
@@ -278,6 +386,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I57",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I58"
             ]
         },
         {
@@ -288,6 +400,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I59",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I6"
             ]
         },
         {
@@ -298,6 +414,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I60",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I61"
             ]
         },
         {
@@ -308,6 +428,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I62",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I63"
             ]
         },
         {
@@ -318,6 +442,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I64",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I65"
             ]
         },
         {
@@ -328,6 +456,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I66",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I67"
             ]
         },
         {
@@ -338,6 +470,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I68",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I69"
             ]
         },
         {
@@ -348,6 +484,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I7",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I70"
             ]
         },
         {
@@ -358,6 +498,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I71",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I72"
             ]
         },
         {
@@ -368,6 +512,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I73",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I74"
             ]
         },
         {
@@ -378,6 +526,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I75",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I76"
             ]
         },
         {
@@ -388,6 +540,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I77",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I78"
             ]
         },
         {
@@ -398,6 +554,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I79",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I8"
             ]
         },
         {
@@ -408,6 +568,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I80",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I81"
             ]
         },
         {
@@ -418,6 +582,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I82",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I83"
             ]
         },
         {
@@ -428,6 +596,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I84",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I85"
             ]
         },
         {
@@ -438,6 +610,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I86",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I87"
             ]
         },
         {
@@ -448,6 +624,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I88",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I89"
             ]
         },
         {
@@ -458,6 +638,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I9",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I90"
             ]
         },
         {
@@ -468,6 +652,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I91",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I92"
             ]
         },
         {
@@ -478,6 +666,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I93",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I94"
             ]
         },
         {
@@ -488,6 +680,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I95",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I96"
             ]
         },
         {
@@ -498,6 +694,10 @@
             "findings": [
                 "There is no structural defects and normal flow patterns",
                 "no fetal abnormalities detected in this scan"
+            ],
+            "images": [
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I97",
+                "C:\\Projects\\Origin Medical Research DE Challenge\\RC-datasets\\data-operations_role-challenge-2_DICOM-processing-analysis\\assets\\dicom-dataset\\I98"
             ]
         }
     ]
